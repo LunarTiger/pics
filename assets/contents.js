@@ -33,7 +33,7 @@ var alt = ["calico cat", //0
 	"calf side close-up",
 	"rainbow",
 	"egg in nest",
-	"willy close-up",
+	"Willy close-up",
 	"forest canopy",
 	"edge of forest",
 	"flower",
@@ -41,7 +41,7 @@ var alt = ["calico cat", //0
 	"bottles in bottling machene being filled", //40
 	"waves",
 	"shadow on waves",
-	"AtAt on beach",
+	"AT-AT on beach",
 	"more waves",
 	"even more waves",
 	"birds nest atop sign",
