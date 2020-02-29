@@ -67,5 +67,5 @@ var alt = ["calico cat", //0
 	"more slime mold on tree" //66
 ];
 for (l=0; l<alt.length; l++){
-	document.body.innerHTML += "<p><img src='"+l+".jpg' alt='"+alt[l]+"'></img><br />"+alt[l]+"</p><hr style='height:5px; visibility:hidden;' />";
+	document.body.innerHTML += "<p><img src='assets/img/"+l+".jpg' alt='"+alt[l]+"'></img><br />"+alt[l]+"</p><hr style='height:5px; visibility:hidden;' />";
 }
