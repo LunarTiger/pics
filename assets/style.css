@@ -1,5 +1,5 @@
 body {
-    text-align:center;
+    text-align: center;
     background-image: none;
     background-color: #000000;
     color: #00be00;
@@ -9,7 +9,7 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    text-align:center;
+    text-align: center;
     background-color: #000000;
     color: #00ff00;
     border-top: 1px dashed #006900;
@@ -89,15 +89,15 @@ mark {
 
 input[type=text] {
     border: none;
-    border-bottom: 2px solid 00be00;
+    border-bottom: 2px solid #00be00;
     background-color: #000;
     color: #0f0;
 }
 
 table {
-    text-align:center;
-    margin-left:auto;
-    margin-right:auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     border: none;
     max-width: 99%;
 }
@@ -121,12 +121,11 @@ ul {
 
 img {
 	height: auto;
-	width:auto;
-	max-width:90%;
+	width: auto;
+	max-width: 90%;
 }
 
 button {
-    font-family: ComicSans;
     background-color: #000000;
     color: #00FF00;
     padding: 10px;
@@ -157,7 +156,7 @@ nav ul li  {
 }
 
 nav ul li:last-child {
-    border-right:none;
+    border-right: none;
 }
 
 nav ul li a {
@@ -285,10 +284,10 @@ li.navbar a:hover {
 .encase {
     border-width: 0;
     width: 75%;
-    height:auto;
+    height: auto;
     max-width: 100%;
-    margin-left:auto;
-    margin-right:auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /*------------------------------------*/
