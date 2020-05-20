@@ -1,4 +1,15 @@
+@font-face {
+    font-family: Lexend;
+    src: url("https://lunartiger.github.io/assets/fonts/lexend_deca/LexendDeca-Regular.ttf");
+}
+
+@font-face {
+    font-family: ComicSans;
+    src: url("https://lunartiger.github.io/assets/fonts/comic_sans/comic.ttf");
+}
+
 body {
+    font-family: Lexend;
     text-align: center;
     background-image: none;
     background-color: #000000;
@@ -6,6 +17,7 @@ body {
 }
 
 footer {
+    font-family: Lexend;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -126,6 +138,7 @@ img {
 }
 
 button {
+    font-family: Lexend;
     background-color: #000000;
     color: #00FF00;
     padding: 10px;
